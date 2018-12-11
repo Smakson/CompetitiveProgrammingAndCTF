@@ -1,0 +1,9 @@
+cd secret
+ls
+rm intel_
+cd ..
+cd executables
+./dontLookHere
+cd ..
+cp /tmp/TopSecret ../passwords/
+
